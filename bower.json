@@ -1,0 +1,17 @@
+{
+  "name": "circa-victor",
+  "version": "0.0.0",
+  "authors": [
+    "Patrick Perey <patrick@circavictor.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}

@@ -8,3 +8,4 @@ TODO
 -----
 * use react hot loader
 * examples
+* edit package.json to only include used packages
